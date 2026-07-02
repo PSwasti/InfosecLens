@@ -1,0 +1,8 @@
+Employee Profile
+Name: John Doe
+Department: Engineering
+Email: john.doe@infoseclabs.io
+Contact: 9876543210
+PAN Card: ABCDE1234F
+Credit Card for Expenses: 4111-2222-3333-4444
+Internal System Password: db_password = 'super_secret_token_12345'
